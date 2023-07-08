@@ -1,7 +1,7 @@
 # Tugas Uas Komputer Grafik
-Nama : Rian Hidayat
-NIM  : 201011400623
-Kelas : 06TPLE006
+# Nama : Rian Hidayat
+# NIM  : 201011400623
+#Kelas : 06TPLE006
 
 Membuat web yang bisa memotong gambar
 
