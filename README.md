@@ -24,11 +24,12 @@ Setelah itu pilih file gambar berupa .jpg atau .png lalu klik submit.
 ![enter image description here](https://raw.githubusercontent.com/rianhd15/rianhd_komputer-grafik_uas/main/Caputre/file%20ter-upload.jpg)
 
 
-4. setelah itu masukkan size, dan pilih posisi gambar yang akan di Crop. misalkan pilih size `300`, dan posisi 'center'. Kemudian klik Submit
+3. setelah itu masukkan size, dan pilih posisi gambar yang akan di Crop. misalkan pilih size `300`, dan posisi 'center'. Kemudian klik Submit
 
 ![enter image description here](https://raw.githubusercontent.com/rianhd15/rianhd_komputer-grafik_uas/main/Caputre/masukkan%20ukuran%20crop.jpg)
 
-6. Setelah itu akan muncul Output gambar seperti berikut :
 
- ![enter image description here](https://raw.githubusercontent.com/rianhd15/rianhd_komputer-grafik_uas/main/Caputre/hasil%20output.jpg)
-Ini merupakan hasil dari Crop posisi center dengan ukuran 300.
+4. Setelah itu akan muncul Output gambar seperti berikut :
+
+![enter image description here](https://raw.githubusercontent.com/rianhd15/rianhd_komputer-grafik_uas/main/Caputre/hasil%20output.jpg)
+## Hasil di atas merupakan hasil dari Crop dengan posisi center & ukuran 300.
